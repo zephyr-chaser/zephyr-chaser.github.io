@@ -14,8 +14,7 @@ I am currently studying operating systems, network protocols, and artificial int
 
 You can find my CV here: [Zhang Yuexiang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
-[Email](1220205021@zust.edu.cn) / [Github](https://github.com/Zephyr-Chaser) / [Wechat](../images/wechat.jpg) / [CSDN]
-(https://blog.csdn.net/gd1813100174?spm=1000.2115.3001.5343)
+[Email](1220205021@zust.edu.cn) / [Github](https://github.com/Zephyr-Chaser) / [Wechat](../images/wechat.jpg) /
 
 A data-driven personal website
 ======
